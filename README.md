@@ -9,6 +9,15 @@ Models covered: Logistic Regression, Naive Bayes, SVM, Decision Tree, Random For
 
 👉 https://colab.research.google.com/drive/1bV3omIz7QsyAt_ZlQEGvZ6ShJQDhCcqy?usp=sharing
 
+## Team Members
+
+* Rohan — 230001069
+* Ayush Kumar — 230001012
+* Abhash Raj — 230001002
+* Keshav Singhal — 230001039
+* Kota Sanjay Kumar — 230001042
+
+
 
 ## What's Inside the ZIP
 
