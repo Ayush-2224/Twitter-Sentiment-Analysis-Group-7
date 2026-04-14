@@ -5,6 +5,10 @@ A comparative study of multiple machine learning models for classifying tweet se
 Models covered: Logistic Regression, Naive Bayes, SVM, Decision Tree, Random Forest, KNN, Perceptron, Gradient Boosting, AdaBoost, XGBoost, Neural Network, and BERT.
 
 ---
+## Google Colab Link
+
+👉 https://colab.research.google.com/drive/1bV3omIz7QsyAt_ZlQEGvZ6ShJQDhCcqy?usp=sharing
+
 
 ## What's Inside the ZIP
 
@@ -32,13 +36,17 @@ TwitterSentimentAnalysis/
 
 ## Setup & Installation
 
-### 1. Extract the ZIP
+### 1. Clone the Repository
 
-Right-click the ZIP file and extract it to a folder of your choice.
+```bash
+git clone https://github.com/Ayush-2224/Twitter-Sentiment-Analysis-Group-7.git
+cd Twitter-Sentiment-Analysis-Group-7
+```
 
-### 2. Open the folder in VS Code
+### 2. Open in VS Code
 
-Go to **File → Open Folder** and select the extracted folder.
+Go to **File → Open Folder** and select the project folder.
+
 
 ### 3. Install the Jupyter extension
 
